@@ -1,6 +1,6 @@
 # TV Launcher for Yoton Y4 Pro
 
-A simple Apple TV-style home screen. Tiles: HDMI, Sources, Original launcher, Settings, then all installed apps.
+A simple Apple TV-style home screen. Tiles: HDMI, Sources, Original launcher, Settings, Screensaver (from Google Photos), then all installed apps.
 
 ## Build
 1. Push this folder to a new GitHub repo.
